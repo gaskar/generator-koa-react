@@ -1,0 +1,1 @@
+# generator-koa-react
