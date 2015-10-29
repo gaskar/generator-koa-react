@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Generator for ReactJS with KoaJS backend",
   "main": "index.js",
+  "repository": "git@github.com:gaskar/generator-koa-react.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
