@@ -1,0 +1,24 @@
+{
+  "name": "generator-koa-react",
+  "version": "0.1.0",
+  "description": "Generator for ReactJS with KoaJS backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "koa-react",
+    "react-koa",
+    "react-koa-generator"
+  ],
+  "author": "gaskar",
+  "license": "MIT",
+  "files": [
+    "app",
+    "router"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.21.1"
+  }
+}
